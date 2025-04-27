@@ -49,8 +49,9 @@ Please do the following before you arrive:
 - Install [Obsidian](https://obsidian.md/)
 - Make sure `git` is installed and you can access GitHub
 - Bring access to an AI tool (ChatGPT, Claude, Copilot, etc.)
+	- **Recommended**: install [Cursor IDE](https://www.cursor.com)
 - Bring a spirit of **play**, **curiosity**, and **care**
-
+	 
 ---
 
 ## 🌀 Final Thought

@@ -46,12 +46,12 @@ It is a living memory of how we collaborate, invent, and shape each other — hu
 ## 🛠 Pre-Work Checklist
 
 Please do the following before you arrive:
-- Install [Obsidian](https://obsidian.md/)
 - Make sure `git` is installed and you can access GitHub
 - Bring access to an AI tool (ChatGPT, Claude, Copilot, etc.)
 	- **Recommended**: install [Cursor IDE](https://www.cursor.com)
+- The project structure is designed to work well with the Obsidian note taking app. **Optional:** Install [Obsidian](https://obsidian.md/)
 - Bring a spirit of **play**, **curiosity**, and **care**
-	 
+
 ---
 
 ## 🌀 Final Thought

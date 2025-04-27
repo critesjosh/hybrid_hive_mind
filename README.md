@@ -27,7 +27,7 @@ We emphasize:
 
 ## Project Structure
 
-Read more about the workshop structure on the [welcome page](./workshop_templates/00_Workshop_Overview/Welcome.md).
+Read more about the workshop structure on the [workshop Welcome.md page](./workshop_templates/00_Workshop_Overview/Welcome.md).
 
 ### Root Directory
 - `workshops/` - Contains individual workshop sessions

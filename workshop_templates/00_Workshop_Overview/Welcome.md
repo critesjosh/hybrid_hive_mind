@@ -22,7 +22,7 @@ It is a living memory of how we collaborate, invent, and shape each other — hu
 ---
 ## Suggestions
 
-[[Suggestions for using AI]]
+[Suggestions for using AI](./Suggestions%20for%20using%20AI.md)
 
 ---
 

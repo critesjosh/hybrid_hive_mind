@@ -1,0 +1,3 @@
+# Obstacle: Git Merge Conflicts
+...
+Tip

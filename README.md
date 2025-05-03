@@ -1,6 +1,6 @@
 # Hybrid Hive Mind
 
-This repository contains a structured framework for collaborative workshops and knowledge sharing sessions that explore how small groups, amplified by AI, can create faster, dream bigger, and build more fluidly.
+This repository contains a structured framework for collaborative workshops and knowledge sharing sessions that explore how small groups, amplified by AI, can create faster, dream bigger, and build more fluidly. This workshop structure was inspired by [this post](https://contraptions.venkateshrao.com/p/bangkok-diary-2025).
 
 ## Purpose
 

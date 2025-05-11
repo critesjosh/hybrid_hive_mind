@@ -1,0 +1,11 @@
+# Brainstorm: Local Meetups Discovery App
+...
+Integrate AI suggestions for events
+
+Prompt:
+
+...
+
+Answer:
+
+...

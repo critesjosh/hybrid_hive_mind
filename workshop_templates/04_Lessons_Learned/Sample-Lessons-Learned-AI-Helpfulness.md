@@ -1,3 +1,0 @@
-# Lessons Learned: How AI Helped (and Didn't)
-...
-Tip
